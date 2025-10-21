@@ -1,4 +1,26 @@
-name: "<gradient:#4776E6>Fine turned</gradient:#8E54E9>"
+name: "<gradient:#4776E6>Fine tuned</gradient:#8E54E9>"
 
 description:
-  - "&a+10% &fdamage"
+  - "&a+10% &fDamage"
+  - "&a+10% &fCrit Damage"
+  - "&a+10% &fAttack Speed"
+
+targets:
+  - melee
+
+effects: 
+  - id: damage_multiplier
+    args:
+      multiplier: 1.1
+    triggers:
+      - melee_attack
+  - id: attack_speed_multiplier
+    args:
+      multiplier: 1.1
+  - id: crit_multiplier
+    args:
+      multiplier: 1.1
+    triggers:
+      - melee_attack
+
+conditions: []
