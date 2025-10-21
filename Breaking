@@ -13,5 +13,10 @@ targets:
 - id: item_durability_multiplier
   args:
     multiplier: 5 # The multiplier for the durability
+  triggers:
+    - take_damage
+    - shoot_bow
+    - mine_block
+    - melee_attack
 
 conditions: []
