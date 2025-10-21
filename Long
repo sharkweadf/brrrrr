@@ -1,0 +1,24 @@
+name: "<gradient:#B993D6>Long</gradient:#8CA6DB>"
+
+description:
+  - "&a+1 &Entity reach"
+  - "&a-5% &fDamage"
+  - "&a-5% &fCrit damage
+  - "&a-5% &fAttack speed"
+
+targets:
+  - melee
+
+effects:
+  - id: entity_reach
+    args:
+      reach: 1
+  - id: damage_multiplier
+    args:
+      multiplier: 0.95
+    triggers:
+      - melee_attack
+  - id: attack_speed_multiplier
+    args:
+      multiplier: 1.1
+  -
