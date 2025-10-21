@@ -21,7 +21,7 @@ effects:
   - id: attack_speed_multiplier
     args:
       multiplier: 0.95
-  -- id: crit_multiplier
+  - id: crit_multiplier
     args:
       multiplier: 0.95
     triggers:
