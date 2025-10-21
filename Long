@@ -3,7 +3,7 @@ name: "<gradient:#B993D6>Long</gradient:#8CA6DB>"
 description:
   - "&a+1 &Entity reach"
   - "&c-5% &fDamage"
-  - "&c-5% &fCrit damage
+  - "&c-5% &fCrit damage"
   - "&c-5% &fAttack speed"
 
 targets:
