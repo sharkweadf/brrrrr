@@ -1,7 +1,7 @@
 name: "<gradient:#076585>Malformed</gradient:#ffffff>"
 
 description:
-  - "&a-5% &fDamage"
+  - "&c-5% &fDamage"
   - "&a+3% &fCrit Damage
 
 targets:
