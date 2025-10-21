@@ -1,7 +1,7 @@
 name: "<gradient:#AAFFA9>Breaking</gradient:#11FFBD>" 
 
 description:
-  - "&a-5x &Durability cost"
+  - "&a-5x &fDurability cost"
 
 targets: 
   - melee
