@@ -1,0 +1,17 @@
+name: "<gradient:#AAFFA9>Breaking</gradient:#11FFBD>" 
+
+description:
+  - "&a-5x &Durability cost"
+
+targets: 
+  - melee
+  - pickaxe
+  - armor
+  - bow
+  - trident
+
+- id: item_durability_multiplier
+  args:
+    multiplier: 5 # The multiplier for the durability
+
+conditions: []
