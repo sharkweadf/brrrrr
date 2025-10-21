@@ -2,9 +2,9 @@ name: "<gradient:#B993D6>Long</gradient:#8CA6DB>"
 
 description:
   - "&a+1 &Entity reach"
-  - "&a-5% &fDamage"
-  - "&a-5% &fCrit damage
-  - "&a-5% &fAttack speed"
+  - "&c-5% &fDamage"
+  - "&c-5% &fCrit damage
+  - "&c-5% &fAttack speed"
 
 targets:
   - melee
